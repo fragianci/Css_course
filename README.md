@@ -1,1 +1,1 @@
-# Css_course
+# Exercise with flexbox
